@@ -1,7 +1,7 @@
 {
   "name": "color-scheme-change",
   "description": "Detect system color scheme changes on the web (Dark Mode)",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
