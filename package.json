@@ -1,0 +1,39 @@
+{
+  "name": "color-scheme-change",
+  "description": "Detect system color scheme changes on the web (Dark Mode)",
+  "version": "0.0.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/color-scheme-change/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "*"
+  },
+  "homepage": "https://github.com/feross/color-scheme-change",
+  "keywords": [
+    "color scheme",
+    "dark mode",
+    "detect",
+    "system color",
+    "color",
+    "color-scheme",
+    "prefers-color-scheme",
+    "css",
+    "media query",
+    "light mode"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/color-scheme-change.git"
+  },
+  "scripts": {
+    "test": "standard"
+  }
+}
