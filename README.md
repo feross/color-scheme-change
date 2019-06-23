@@ -46,10 +46,11 @@ A callback function of the following interface: `function(colorScheme) {}` where
 `colorScheme` is either `'light'` or `'dark'`. The function is called whenever
 the system enters Light Mode or Dark Mode, respectively.
 
-#### return value (`remove`)
+#### `remove`
 
-When the `remove` function is called, all event listeners are cleaned up and the
-`onChange` function will no longer be called when the system color scheme changes.
+When the returned `remove` function is called, all event listeners are cleaned
+up and the `onChange` function will no longer be called when the system color
+scheme changes.
 
 ## license
 
