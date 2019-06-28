@@ -1,5 +1,7 @@
 # color-scheme-change [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feross/color-scheme-change.svg)](https://greenkeeper.io/)
+
 [travis-image]: https://img.shields.io/travis/feross/color-scheme-change/master.svg
 [travis-url]: https://travis-ci.org/feross/color-scheme-change
 [npm-image]: https://img.shields.io/npm/v/color-scheme-change.svg
